@@ -1,2 +1,5 @@
 # Python-Projects
-Working on Python projects so that i gain hands on experience from basics to advanced
+Working on Python projects so that i gain hands on experience from basics to advanced.
+Starting off with 
+1. Tables
+2. Calculator
